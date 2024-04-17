@@ -1,0 +1,13 @@
+Dataset,Feature overlap method,Increase F1-score (%)
+Diabetes,R_AVG_FI,4.06
+Diabetes,R_A_FI,4.66
+Liver,R_AVG_FI,2.09
+Liver,R_A_FI,1.89
+Hepatitis,R_AVG_FI,12.63
+Hepatitis,R_A_FI,13.74
+Abalone,R_AVG_FI,1.64
+Abalone,R_A_FI,1.54
+Water,R_AVG_FI,1.32
+Water,R_A_FI,1.66
+Fetal,R_AVG_FI,2.54
+Fetal,R_A_FI,2.54
