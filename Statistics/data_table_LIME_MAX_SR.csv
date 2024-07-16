@@ -1,0 +1,37 @@
+Dataset,Performance Metric,Increase
+"Diabetes
+(SR_A_FI)",Accuracy,1.84
+"Diabetes
+(SR_A_FI)",F1 score,5.11
+"Diabetes
+(SR_A_FI)",ROC-AUC Score,2.9
+"Liver
+(SR_A_FI)",Accuracy,0.78
+"Liver
+(SR_A_FI)",F1 score,0.51
+"Liver
+(SR_A_FI)",ROC-AUC Score,0.93
+"Hepatitis
+(SR_A_FI)",Accuracy,2.24
+"Hepatitis
+(SR_A_FI)",F1 score,19.1
+"Hepatitis
+(SR_A_FI)",ROC-AUC Score,11.98
+"Abalone
+(SR_A_FI)",Accuracy,-0.59
+"Abalone
+(SR_A_FI)",F1 score,-0.16
+"Abalone
+(SR_A_FI)",ROC-AUC Score,-0.53
+"Water
+(SR_A_FI)",Accuracy,2.68
+"Water
+(SR_A_FI)",F1 score,4.69
+"Water
+(SR_A_FI)",ROC-AUC Score,2.97
+"Fetal
+(SR_A_FI)",Accuracy,1.49
+"Fetal
+(SR_A_FI)",F1 score,3.8
+"Fetal
+(SR_A_FI)",ROC-AUC Score,2.76

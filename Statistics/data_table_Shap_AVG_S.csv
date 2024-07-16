@@ -1,0 +1,19 @@
+Dataset,Performance Metric,Increase
+Diabetes,Accuracy,0.77
+Diabetes,F1 score,1.33
+Diabetes,ROC-AUC Score,0.80
+Liver,Accuracy,0.16
+Liver,F1 score,0.08
+Liver,ROC-AUC Score,0.09
+Hepatitis,Accuracy,1.73
+Hepatitis,F1 score,14.36
+Hepatitis,ROC-AUC Score,8.76
+Abalone,Accuracy,0.31
+Abalone,F1 score,0.93
+Abalone,ROC-AUC Score,0.37
+Water,Accuracy,2.23
+Water,F1 score,3.17
+Water,ROC-AUC Score,2.27
+Fetal,Accuracy,0.11
+Fetal,F1 score,0.39
+Fetal,ROC-AUC Score,0.43

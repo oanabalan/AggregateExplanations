@@ -1,0 +1,28 @@
+Dataset,Performance Metric,Increase (%)
+R_AVG,Accuracy,-0.67
+R_AVG,F1 score,-1.72
+R_AVG,ROC-AUC Score,-1.07
+R_FI,Accuracy,-0.08
+R_FI,F1 score,1.57
+R_FI,ROC-AUC Score,0.86
+R_AVG_FI,Accuracy,1.57
+R_AVG_FI,F1 score,4.03
+R_AVG_FI,ROC-AUC Score,3.56
+R_A,Accuracy,0.2
+R_A,F1 score,-2.05
+R_A,ROC-AUC Score,-1.35
+R_A_FI,Accuracy,1.63
+R_A_FI,F1 score,4.34
+R_A_FI,ROC-AUC Score,3.2
+S_A,Accuracy,-1.26
+S_A,F1 score,-3.08
+S_A,ROC-AUC Score,-3.17
+S_A_FI,Accuracy,0.33
+S_A_FI,F1 score,1.24
+S_A_FI,ROC-AUC Score,0.66
+SR_A,Accuracy,-1.45
+SR_A,F1 score,-4.63
+SR_A,ROC-AUC Score,-3.25
+SR_A_FI,Accuracy,0.65
+SR_A_FI,F1 score,0.82
+SR_A_FI,ROC-AUC Score,-0.07

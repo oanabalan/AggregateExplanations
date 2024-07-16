@@ -1,0 +1,13 @@
+Dataset,Feature overlap method,Increase ROC-AUC score (%)
+Diabetes,R_AVG_FI,2.66
+Diabetes,R_A_FI,2.71
+Liver,R_AVG_FI,3.36
+Liver,R_A_FI,2.94
+Hepatitis,R_AVG_FI,8.65
+Hepatitis,R_A_FI,9.44
+Abalone,R_AVG_FI,1.26
+Abalone,R_A_FI,1.08
+Water,R_AVG_FI,0
+Water,R_A_FI,0.68
+Fetal,R_AVG_FI,1.81
+Fetal,R_A_FI,1.97
